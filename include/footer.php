@@ -17,7 +17,6 @@ if (__FILE__ === $_SERVER['SCRIPT_FILENAME']) {
                 // <a href="https://codefactoryglobal.com/speech-technology/">Cerence</a>
                 // <a href="https://www.acapela-group.com/demos/">Acapela</a>
                 // <a href="https://www.oddcast.com/ttsdemo/index.php">Oddcast</a>
-                // <a href="https://www.voiceforge.com/">VoiceForge</a>
                 // <a href="https://www.cepstral.com/en/demos">Cepstral</a>
                 // <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/Speech-Service/">Microsoft Azure Speech</a> (via <a href="https://www.bing.com/translator">Bing Translator</a>)
                 // <a href="https://translate.google.com/">Google Translate</a>
